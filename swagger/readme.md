@@ -8,7 +8,7 @@ Generated At: 2020-10-06
 
 ## Download Swagger Codegen
 
-`wget https://repo1.maven.org/maven2/io/swagger/codegen/v3/swagger-codegen-cli/3.0.22/swagger-codegen-cli-3.0.22.jar`
+`wget https://repo1.maven.org/maven2/io/swagger/codegen/v3/swagger-codegen-cli/3.0.22/swagger-codegen-cli-3.0.22.jar -O swagger-codegen-cli.jar`
 
 ## Generate
 
