@@ -1,0 +1,26 @@
+# ignore certificates
+*.pem
+*.crt
+*.csr
+*.key
+*.p7b
+
+*.gz
+
+# ignore .env
+.env
+**/.env
+srv/
+run/
+
+node_modules/
+android/
+ios/
+# logs
+**/logs
+**.log
+/.project
+/.idea
+**/.vscode/
+.~lock*
+/.vagrant
