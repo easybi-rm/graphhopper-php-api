@@ -1,6 +1,5 @@
 {
     "name": "easybi-rm/graphhopper-php-api",
-    "version": "1.0.0",
     "description": "",
     "keywords": [
         "swagger",
@@ -17,6 +16,7 @@
         }
     ],
     "require": {
+        "php": ">=5.5",
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
