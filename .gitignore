@@ -13,10 +13,7 @@
 srv/
 run/
 
-node_modules/
-android/
-ios/
-# logs
+/node_modules/
 **/logs
 **.log
 /.project
@@ -24,3 +21,5 @@ ios/
 **/.vscode/
 .~lock*
 /.vagrant
+
+/*.jar
